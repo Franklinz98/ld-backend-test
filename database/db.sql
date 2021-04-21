@@ -4,7 +4,6 @@ USE ludycom_backend;
 
 CREATE TABLE users(
     email VARCHAR(50) NOT NULL,
-    password VARCHAR(53),
     id INT NOT NULL,
     state VARCHAR(8) DEFAULT 'active' NOT NULL,
     name VARCHAR(50),
