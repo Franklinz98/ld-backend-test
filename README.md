@@ -4,7 +4,7 @@
 
 The Database script is found on the database folder
 
-#Auth
+# Auth
 
 ### POST /auth/generate-apikey/:id
 
